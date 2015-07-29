@@ -1,0 +1,76 @@
+	<style>
+	*{
+		margin: 0;
+		padding: 0;
+	}
+		body {
+			font-family: serif, Verdana, Arial, Helvetica; 
+			font-size: 14px;
+			text-align: left;
+			white-space: pre;
+		}
+		#wrapper {
+			width: 1280px;
+			position: relative;
+			margin: 0 auto;
+		}
+		h5 {
+			text-align: center;
+			font-size: .8em;
+			text-align: center;
+			margin: 0;
+			color: red;
+			border-bottom: 0.1em solid #000;
+		}
+		h1 {
+			font-family: serif;
+			font-size: 5.9em;
+			margin: 0;
+		}
+		p {
+			font-size: 10px;
+			margin-top: -52px;
+
+		}
+		.paragraph1, .paragraph2, .paragraph3 {
+			float: left;
+			position: relative;
+			padding-right: 1.4em;
+		}
+		.second_header {
+			float: left;
+			clear: both;
+		}
+		.ordered_list {
+			position: absolute;
+			padding: 10px 0 0 50px;
+			position: relative;
+			float: left;
+			font-size: .6em;
+			line-height: 5px;
+			color: red;
+		}
+		.third_header {
+			clear: both;
+			float: left;
+		}
+		.unordered_List {
+			position: absolute;
+  			padding: 10px 0 0 50px;
+			position: relative;
+			list-style: none;
+			float: left;
+			line-height: 50%;
+			font-size: .6em;
+		}
+		.underline {
+			border-bottom: 0.1em solid #000;
+			padding-bottom: 525px;
+			margin-bottom: 20px;
+		}
+		li a {
+			text-decoration: none;
+			color: #000;
+		}
+ 
+	</style>
